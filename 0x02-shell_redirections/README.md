@@ -1,4 +1,4 @@
-## Tasks :page_with_curl:
+## Tasks :innocent:
 
 * **0. Hello World**
   * [0-hello_world](./0-hello_world): Bash script that prints "Hello, World"
